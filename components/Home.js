@@ -156,7 +156,7 @@ export default function Home() {
         <View style={styles.rando}>
           <TouchableHighlight
             style={{
-              height: 40,
+              height: 50,
               width: 160,
 
               borderRadius: 10,

@@ -43,7 +43,7 @@ backgroundColor: "tomato",
       
     },
     titleText: {
-      fontSize: 30,
+      fontSize: 40,
       fontWeight: "bold",
       textAlign: "center"
     
