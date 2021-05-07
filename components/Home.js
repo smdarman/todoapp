@@ -145,7 +145,7 @@ export default function Home() {
               borderRadius: 10,
               backgroundColor: "tomato",
               marginLeft: 50,
-              marginRight: 50,
+              marginRight: 51,
               marginTop: 1,
             }}
           >
